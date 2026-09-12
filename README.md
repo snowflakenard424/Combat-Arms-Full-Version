@@ -238,3 +238,6 @@ This repository serves as the official landing page for Combat Arms. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Combat Arms today!**
+
+---
+**Last updated:** 2026-09-12 03:00:55 UTC
