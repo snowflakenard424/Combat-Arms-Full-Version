@@ -240,4 +240,4 @@ This repository serves as the official landing page for Combat Arms. The softwar
 **Get the most recent version of Combat Arms today!**
 
 ---
-**Last updated:** 2026-09-23 01:08:10 UTC
+**Last updated:** 2026-09-23 07:07:59 UTC
